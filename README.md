@@ -57,8 +57,4 @@ https://t.me/laitis_ajub
 мой вк сообщество:
 https://vk.ru/laitis_ajub
 
-скачиваем Save_v1.3.laitis и кидаем в C:\Users\Users\AppData\Local\Laitis\SaveBackups
-
-потом в настройках программы нажать на восстановить предыдущее сохранение из хранилища и выбираем наш файл.
-
-Дополнительные настройки в архиве third party programs
+Инструкция в архиве
