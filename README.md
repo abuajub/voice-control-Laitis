@@ -52,10 +52,10 @@ https://vk.ru/laitisgroup
 И ряд других возможностей.
 
 мой telegram-канал:
-https://t.me/+OwehBoLuzXE4NzMy
+https://t.me/laitis_ajub
 
-установка
-Устанавливаем laitis.exe (а если она у кого-то есть то пропускаем этот момент)
+мой вк сообщество:
+https://vk.ru/laitis_ajub
 
 скачиваем Save_v1.3.laitis и кидаем в C:\Users\Users\AppData\Local\Laitis\SaveBackups
 
